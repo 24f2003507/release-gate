@@ -1,6 +1,6 @@
 name: TDS GA7 Release Gate
 
-on:
+"on":
   push:
     branches:
       - main
